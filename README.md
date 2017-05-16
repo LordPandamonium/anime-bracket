@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/dxprog/anime-bracket.svg)](https://travis-ci.org/dxprog/anime-bracket)
 
+This fork is an attempt to use discord oauth instead of reddit -Panda
 # Brakkit
 
 A site for running standard elimination style brackets.
